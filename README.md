@@ -16,7 +16,7 @@ Pandas / Pandas-json_normalize - Para transformar dados em dataframe / To transf
 Matplotlib / wordcloud - Trazer dados Gráficos / Bring graphical data
 
 ### **Link de acesso ao Notebook | Link for acces to Notebook
-https://github.com/JosegJunior/raspagem_de_dados_Web_Json/tree/main/Notebook
+https://github.com/JosegJunior/Analise_de_dados_Web_Json/tree/main/Notebook
 
 ### **Link documentação URL JSON PLACE HOLDER | Link for documentation URL JSON PLACE HOLDER
 http://jsonplaceholder.typicode.com/
